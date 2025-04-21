@@ -169,7 +169,6 @@ export default function AppointmentsPage() {
                   <TableHead>Time</TableHead>
                   <TableHead>Date</TableHead>
                   <TableHead>Patient Name</TableHead>
-                  <TableHead>Patient Age</TableHead>
                   <TableHead>Doctor</TableHead>
                   <TableHead>User Action</TableHead>
                 </TableRow>
@@ -229,7 +228,6 @@ export default function AppointmentsPage() {
                   <TableHead>Time</TableHead>
                   <TableHead>Date</TableHead>
                   <TableHead>Patient Name</TableHead>
-                  <TableHead>Patient Age</TableHead>
                   <TableHead>Doctor</TableHead>
                   <TableHead>Fee Status</TableHead>
                   <TableHead>User Action</TableHead>
